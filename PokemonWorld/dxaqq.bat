@@ -1,3 +1,5 @@
+cd\
+
 git checkout .
 
 START "" "%~dp0\PokemonWorld\Game.exe"
