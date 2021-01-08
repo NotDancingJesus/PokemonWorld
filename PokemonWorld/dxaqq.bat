@@ -2,5 +2,5 @@ cd ..
 
 git checkout .
 
-START "" "%~dp0\PokemonWorld\Game.exe"
+START "" "%~dp0\Game.exe"
 exit 0
