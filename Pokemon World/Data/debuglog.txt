@@ -1,0 +1,171 @@
+
+******************************************
+
+***Round 1***
+[AI] Aerial Ace damage calculated (148=>160% of target's 45 HP), score change 100=>260
+[AI] The opposing Pidgeot's moves: Aerial Ace=260, Feather Dance=5, Sand Attack=5, Whirlwind=5
+[AI] Prefer Aerial Ace
+[Priority] The opposing Pidgeot (1), Pikachu (0)
+The opposing Pidgeot used Aerial Ace
+Move's damage calculated to be 130
+[HP change] Pikachu lost 45 HP (45=>0)
+Move did 1 hit(s), total damage=45
+[Pokémon fainted] Pikachu
+[End of round]
+[Send out Pokémon] Player sent out Kadabra in position 0
+
+***Round 2***
+[AI] Aerial Ace damage calculated (296=>160% of target's 50 HP), score change 100=>260
+[AI] The opposing Pidgeot's moves: Aerial Ace=260, Feather Dance=0, Sand Attack=5, Whirlwind=5
+[AI] Prefer Aerial Ace
+[Priority] The opposing Pidgeot (1), Kadabra (0)
+The opposing Pidgeot used Aerial Ace
+Move's damage calculated to be 555
+[HP change] Kadabra lost 50 HP (50=>0)
+Move did 1 hit(s), total damage=50
+[Pokémon fainted] Kadabra
+[End of round]
+[Send out Pokémon] Player sent out Gyarados in position 0
+[Ability triggered] Gyarados's Intimidate
+[Stat change] The opposing Pidgeot's Attack fell by 1 stage(s) (was 0, now -1)
+
+***Round 3***
+[AI] Aerial Ace damage calculated (83=>160% of target's 68 HP), score change 100=>260
+[AI] The opposing Pidgeot's moves: Aerial Ace=260, Feather Dance=5, Sand Attack=5, Whirlwind=5
+[AI] Prefer Aerial Ace
+[Priority] The opposing Pidgeot (1), Gyarados (0)
+The opposing Pidgeot used Aerial Ace
+Move's damage calculated to be 83
+[HP change] Gyarados lost 68 HP (68=>0)
+Move did 1 hit(s), total damage=68
+[Pokémon fainted] Gyarados
+[End of round]
+[Send out Pokémon] Player sent out Diglett in position 0
+
+***Round 4***
+[AI] Aerial Ace damage calculated (198=>160% of target's 35 HP), score change 100=>260
+[AI] The opposing Pidgeot's moves: Aerial Ace=260, Feather Dance=5, Sand Attack=5, Whirlwind=5
+[AI] Prefer Aerial Ace
+[Priority] The opposing Pidgeot (1), Diglett (0)
+The opposing Pidgeot used Aerial Ace
+Move's damage calculated to be 176
+[HP change] Diglett lost 35 HP (35=>0)
+Move did 1 hit(s), total damage=35
+[Pokémon fainted] Diglett
+[End of round]
+[Send out Pokémon] Player sent out Pidgeotto in position 0
+
+***Round 5***
+[AI] Aerial Ace damage calculated (123=>160% of target's 59 HP), score change 100=>260
+[AI] The opposing Pidgeot's moves: Aerial Ace=260, Feather Dance=5, Sand Attack=5, Whirlwind=5
+[AI] Prefer Aerial Ace
+[Priority] The opposing Pidgeot (1), Pidgeotto (0)
+The opposing Pidgeot used Aerial Ace
+Move's damage calculated to be 108
+[HP change] Pidgeotto lost 59 HP (59=>0)
+Move did 1 hit(s), total damage=59
+[Pokémon fainted] Pidgeotto
+[End of round]
+[Send out Pokémon] Player sent out Chansey in position 0
+
+***Round 6***
+[AI] Aerial Ace damage calculated (504=>160% of target's 131 HP), score change 100=>260
+[AI] The opposing Pidgeot's moves: Aerial Ace=260, Feather Dance=5, Sand Attack=5, Whirlwind=0
+[AI] Prefer Aerial Ace
+[Priority] The opposing Pidgeot (1), Chansey (0)
+The opposing Pidgeot used Aerial Ace
+Move's damage calculated to be 1433
+[HP change] Chansey lost 131 HP (131=>0)
+Move did 1 hit(s), total damage=131
+[Pokémon fainted] Chansey
+
+***Player lost***
+
+******************************************
+
+***Round 1***
+[AI] Scratch damage calculated (2=>2% of target's 108 HP), score change 100=>102
+[AI] The opposing Charmander's moves: Scratch=102, Growl=90
+[AI] Will use Scratch
+[Priority] Bulbasaur (0), the opposing Charmander (1)
+Bulbasaur used Double-Edge
+Move's damage calculated to be 337
+[HP change] The opposing Charmander lost 19 HP (19=>0)
+Move did 1 hit(s), total damage=19
+[Pokémon fainted] The opposing Charmander
+[HP change] Bulbasaur lost 6 HP (108=>102)
+
+***Player won***
+
+******************************************
+
+***Round 1***
+[AI] The wild Rattata's moves: Tackle=100, Tail Whip=100
+[AI] Will use Tackle
+[Priority] Pidgeotto (0), the wild Rattata (1)
+Pidgeotto used Quick Attack
+Move's damage calculated to be 3
+[HP change] The wild Rattata lost 3 HP (13=>10)
+Move did 1 hit(s), total damage=3
+The wild Rattata used Tackle
+Move's damage calculated to be 5
+[HP change] Pidgeotto lost 5 HP (12=>7)
+Move did 1 hit(s), total damage=5
+[End of round]
+
+***Round 2***
+[AI] The wild Rattata's moves: Tackle=100, Tail Whip=100
+[AI] Will use Tail Whip
+[Priority] Pidgeotto (0), the wild Rattata (1)
+Pidgeotto used Quick Attack
+Move's damage calculated to be 5
+[HP change] The wild Rattata lost 5 HP (10=>5)
+Move did 1 hit(s), total damage=5
+The wild Rattata used Tail Whip
+[Stat change] Pidgeotto's Defense fell by 1 stage(s) (was 0, now -1)
+Move did 1 hit(s), total damage=0
+[End of round]
+
+***Round 3***
+[AI] The wild Rattata's moves: Tackle=100, Tail Whip=100
+[AI] Will use Tail Whip
+[Priority] Pidgeotto (0), the wild Rattata (1)
+Pidgeotto used Quick Attack
+Move's damage calculated to be 8
+[HP change] The wild Rattata lost 5 HP (5=>0)
+Move did 1 hit(s), total damage=5
+[Pokémon fainted] The wild Rattata
+
+***Player won***
+
+******************************************
+
+***Round 1***
+[AI] The wild Pidgey's moves: Tackle=100
+[AI] Will use Tackle
+[Priority] Pidgeotto (0), the wild Pidgey (1)
+Pidgeotto used Quick Attack
+Move's damage calculated to be 3
+[HP change] The wild Pidgey lost 3 HP (14=>11)
+Move did 1 hit(s), total damage=3
+The wild Pidgey used Tackle
+Move's damage calculated to be 5
+[HP change] Pidgeotto lost 5 HP (9=>4)
+Move did 1 hit(s), total damage=5
+[End of round]
+
+***Round 2***
+[AI] The wild Pidgey's moves: Tackle=100
+[AI] Will use Tackle
+[Priority] Pidgeotto (0), the wild Pidgey (1)
+Pidgeotto used Quick Attack
+Move's damage calculated to be 3
+[HP change] The wild Pidgey lost 3 HP (11=>8)
+Move did 1 hit(s), total damage=3
+The wild Pidgey used Tackle
+Move's damage calculated to be 5
+[HP change] Pidgeotto lost 4 HP (4=>0)
+Move did 1 hit(s), total damage=4
+[Pokémon fainted] Pidgeotto
+
+***Player lost***
