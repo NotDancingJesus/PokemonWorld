@@ -9,7 +9,7 @@
 5. Seguir as seguintes imagens: https://imgur.com/jUnzPm3
 6. Assim que tiver acabado de fazer o clone, é só executar o Game e Voilá! :)
 
-O vosso save file do jogo encontra-se aqui: C:\Users\ (VOSSO USER) \Saved Games
+O vosso save file do jogo encontra-se aqui: C:\Users\ (VOSSO USER) \Saved Games  
 Se quiserem outro save file, podem adicionar ao vosso *.bak* no fim e assim conseguem ter vários saves
 
 
@@ -26,7 +26,7 @@ Se quiserem outro save file, podem adicionar ao vosso *.bak* no fim e assim cons
 
 ## Correção de Erros
 
-- Corrigir o erro de fonts do inicio:
++ Corrigir o erro de fonts do inicio:
 	1. Abre a pasta Pokemon World
 	2. Abre a pasta Font
 	3. Seleciona todas as fonts dentro da pasta
@@ -38,29 +38,24 @@ Se quiserem outro save file, podem adicionar ao vosso *.bak* no fim e assim cons
 
 ## Dicas:
 
--Falem com todas as pessoas que encontrarem, existem easter eggs e 
-items bons à vossa disposição.
+- Falem com todas as pessoas que encontrarem, existem easter eggs e items bons à vossa disposição.
 
--O Novo Pallet Town é o sitio dos acontecimentos. Visita com
-frequência para não perderes nada.
+- O Novo Pallet Town é o sitio dos acontecimentos. Visita com frequência para não perderes nada.
 
--Grava sempre que achares necessário, evita carregar com o rato no jogo 
-e fora. Tive alguns crashes e o progresso não grava automaticamente.
+- Grava sempre que achares necessário, evita carregar com o rato no jogo e fora. Tive alguns crashes e o progresso não grava automaticamente.
 
--Existe 1% de chance de encontrarem um shiny.
+- Existe 1% de chance de encontrarem um shiny.
 
--Para tornar o jogo mais dinâmico, e de forma a acelarar o processo de apanhar todos os
-Pokemon's, todos aqueles que só evoluem apartir de nível 40 podem também ser evoluidos 
-com uma pedra especial (nível 40 incluído)
+- Para tornar o jogo mais dinâmico, e de forma a acelarar o processo de apanhar todos os Pokemon's, todos aqueles que só evoluem apartir de nível 40 podem também ser evoluidos com uma pedra especial (nível 40 incluído)
 
 
 
 ## Feedback
 
-Agradecia algum feedback sobre os capítulos, e não só avaliação de bom/mau.
+Agradecia algum feedback sobre os capítulos, e não só avaliação de bom/mau.  
 O feedback é vital se encontrares algo do gênero:
--  Frases que aches mal sucintas, ou confusas;
-+ Textos em inglês quando achas que deveria estar em Português;
+- Frases que aches mal sucintas, ou confusas;
+- Textos em inglês quando achas que deveria estar em Português;
 - Erros de caligrafia;
 - Constantes mudanças dos nomes de cidades e items (um personagem falar RARE CANDY e o outro Rare Candy);
 - Bugs comuns (se ficares preso em alguma situação anormal, bugar em alguma animação de personagens, etc..)
