@@ -1,24 +1,24 @@
 # PokemonWorld
 
-				      Instalação
+## Instalação
 
 Sacar e instalar o seguinte programa: https://git-scm.com/download/win
 
-O vosso save file do jogo encontra-se aqui: C:\Users\(VOSSO USER)\Saved Games
+O vosso save file do jogo encontra-se aqui: C:\Users\ (VOSSO USER) \Saved Games
 
 
 
-				      Controlos:
+## Controlos:
 
-Andar - Setas
-C  - A 
-X  - B/Start Menu
-Z  - Correr
-F5 - Usar o item registado na mochila (bicicleta, cana de pesca, detector de items, etc...)
+⋅⋅*Andar - Setas
+⋅⋅*C  - A 
+⋅⋅*X  - B/Start Menu
+⋅⋅*Z  - Correr
+⋅⋅*F5 - Usar o item registado na mochila (bicicleta, cana de pesca, detector de items, etc...)
 
 
 
-			          Correção de Erros
+## Correção de Erros
 
 Corrigir o erro de fonts do inicio:
 	-Abre a pasta Pokemon World
@@ -30,7 +30,7 @@ Corrigir o erro de fonts do inicio:
 
 
 
-					Dicas:
+## Dicas:
 
 -Falem com todas as pessoas que encontrarem, existem easter eggs e 
 items bons à vossa disposição.
@@ -49,7 +49,7 @@ com uma pedra especial (nível 40 incluído)
 
 
 
-					Feedback
+## Feedback
 
 Agradecia algum feedback sobre os capítulos, e não só avaliação de bom/mau.
 O feedback é vital se encontrares algo do gênero:
