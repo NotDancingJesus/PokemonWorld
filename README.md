@@ -26,7 +26,7 @@ Se quiserem outro save file, podem adicionar ao vosso *.bak* no fim e assim cons
 
 ## Correção de Erros
 
-+ Corrigir o erro de fonts do inicio:
+### Corrigir o erro de fonts do inicio:
 	1. Abre a pasta Pokemon World
 	2. Abre a pasta Font
 	3. Seleciona todas as fonts dentro da pasta
