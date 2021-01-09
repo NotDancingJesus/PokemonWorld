@@ -7,7 +7,7 @@
 3. Após conta criada, enviar o username da mesma para o Owner (Je)
 4. Assim que der acesso ao Repositório, entra aqui: https://github.com/NotDancingJesus/PokemonWorld
 5. Seguir as seguintes imagens: https://imgur.com/jUnzPm3
-6. Assim que tiver acabado de fazer o clone, é só executar o Game e Voilá! :)
+6. Assim que tiver acabado de fazer o clone, é só executar o PokemonWorld.exe e Voilá! :)
 
 O vosso save file do jogo encontra-se aqui: C:\Users\ (VOSSO USER) \Saved Games  
 Se quiserem outro save file, podem adicionar ao vosso *.bak* no fim e assim conseguem ter vários saves
