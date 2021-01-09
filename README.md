@@ -6,7 +6,7 @@ Sacar e instalar o seguinte programa: https://git-scm.com/download/win
 
 O vosso save file do jogo encontra-se aqui: C:\Users\(VOSSO USER)\Saved Games
 
-############################################################################################
+
 
 				      Controlos:
 
@@ -16,7 +16,7 @@ X  - B/Start Menu
 Z  - Correr
 F5 - Usar o item registado na mochila (bicicleta, cana de pesca, detector de items, etc...)
 
-############################################################################################
+
 
 			          Correção de Erros
 
@@ -28,7 +28,7 @@ Corrigir o erro de fonts do inicio:
 	-Escolhe a opção "Install for all users"
 
 
-############################################################################################
+
 
 					Dicas:
 
@@ -47,7 +47,7 @@ e fora. Tive alguns crashes e o progresso não grava automaticamente.
 Pokemon's, todos aqueles que só evoluem apartir de nível 40 podem também ser evoluidos 
 com uma pedra especial (nível 40 incluído)
 
-############################################################################################
+
 
 					Feedback
 
