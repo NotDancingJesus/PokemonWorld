@@ -2,15 +2,15 @@
 
 ## Instalação
 
-1. Sacar e instalar o seguinte programa: https://git-scm.com/download/win
+1. Sacar e instalar o seguinte programa: https://git-scm.com/download/win (sempre next)
 2. Criar conta em GitHub: https://github.com/
 3. Após conta criada, enviar o username da mesma para o Owner (Je)
 4. Assim que der acesso ao Repositório, entra aqui: https://github.com/NotDancingJesus/PokemonWorld
 5. Seguir as seguintes imagens: https://imgur.com/jUnzPm3
 6. Assim que tiver acabado de fazer o clone, é só executar o Game e Voilá! :)
 
-
 O vosso save file do jogo encontra-se aqui: C:\Users\ (VOSSO USER) \Saved Games
+Se quiserem outro save file, podem adicionar ao vosso *.bak* no fim e assim conseguem ter vários saves
 
 
 
@@ -26,12 +26,12 @@ O vosso save file do jogo encontra-se aqui: C:\Users\ (VOSSO USER) \Saved Games
 
 ## Correção de Erros
 
-Corrigir o erro de fonts do inicio:
-	-Abre a pasta Pokemon World
-	-Abre a pasta Font
-	-Seleciona todas as fonts dentro da pasta
-	-Carrega shift+botão do lado direito do rato em uma das fonts
-	-Escolhe a opção "Install for all users"
+- Corrigir o erro de fonts do inicio:
+	1. Abre a pasta Pokemon World
+	2. Abre a pasta Font
+	3. Seleciona todas as fonts dentro da pasta
+	4. Carrega shift+botão do lado direito do rato em uma das fonts
+	5. Escolhe a opção "Install for all users"
 
 
 
