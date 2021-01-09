@@ -6,9 +6,10 @@
 2. Criar conta em GitHub: https://github.com/
 3. Após conta criada, enviar o username da mesma para o Owner (Je)
 4. Assim que der acesso ao Repositório, entra aqui: https://github.com/NotDancingJesus/PokemonWorld
-5. Clica onde diz **Code** a verde, e **Download ZIP**
-6. Extrair o .zip para o Desktop (Ou outro sitio que seja do teu agrado)
-7. 
+5. Seguir as seguintes imagens: https://imgur.com/jUnzPm3
+6. Assim que tiver acabado de fazer o clone, é só executar o Game e Voilá! :)
+
+
 O vosso save file do jogo encontra-se aqui: C:\Users\ (VOSSO USER) \Saved Games
 
 
