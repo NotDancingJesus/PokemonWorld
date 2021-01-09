@@ -2,19 +2,24 @@
 
 ## Instalação
 
-Sacar e instalar o seguinte programa: https://git-scm.com/download/win
-
+1. Sacar e instalar o seguinte programa: https://git-scm.com/download/win
+2. Criar conta em GitHub: https://github.com/
+3. Após conta criada, enviar o username da mesma para o Owner (Je)
+4. Assim que der acesso ao Repositório, entra aqui: https://github.com/NotDancingJesus/PokemonWorld
+5. Clica onde diz **Code** a verde, e **Download ZIP**
+6. Extrair o .zip para o Desktop (Ou outro sitio que seja do teu agrado)
+7. 
 O vosso save file do jogo encontra-se aqui: C:\Users\ (VOSSO USER) \Saved Games
 
 
 
 ## Controlos:
 
-⋅⋅*Andar - Setas
-⋅⋅*C  - A 
-⋅⋅*X  - B/Start Menu
-⋅⋅*Z  - Correr
-⋅⋅*F5 - Usar o item registado na mochila (bicicleta, cana de pesca, detector de items, etc...)
+* Andar - Setas
+* C  - A 
+* X  - B/Start Menu
+* Z  - Correr
+* F5 - Usar o item registado na mochila (bicicleta, cana de pesca, detector de items, etc...)
 
 
 
