@@ -1,4 +1,4 @@
-# PokemonWorld
+# Pokemon World: As Aventuras de Ash Ketchum!
 
 ## Instalação
 
@@ -58,10 +58,9 @@ com uma pedra especial (nível 40 incluído)
 
 Agradecia algum feedback sobre os capítulos, e não só avaliação de bom/mau.
 O feedback é vital se encontrares algo do gênero:
-	- Frases que aches mal sucintas, ou confusas;
-	- Textos em inglês quando achas que deveria estar em Português;
-	- Erros de caligrafia;
-	- Constantes mudanças dos nomes de cidades e items 
-		(um personagem falar RARE CANDY e o outro Rare Candy);
-	- Bugs comuns (se ficares preso em alguma situação anormal, 
-		       bugar em alguma animação de personagens, etc..)
+-  Frases que aches mal sucintas, ou confusas;
++ Textos em inglês quando achas que deveria estar em Português;
+- Erros de caligrafia;
+- Constantes mudanças dos nomes de cidades e items (um personagem falar RARE CANDY e o outro Rare Candy);
+- Bugs comuns (se ficares preso em alguma situação anormal, bugar em alguma animação de personagens, etc..)
+		      
