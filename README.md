@@ -1,20 +1,10 @@
 # PokemonWorld
 
+				      Instalação
 
-			        Correção de Erros/Infos
-
-Corrigir o erro de fonts do inicio:
-	-Abre a pasta Pokemon World
-	-Abre a pasta Font
-	-Seleciona todas as fonts dentro da pasta
-	-Carrega shift+botão do lado direito do rato em uma das fonts
-	-Escolhe a opção "Install for all users"
-
-O vosso save file do jogo encontra-se aqui: C:\Users\(VOSSO USER)\Saved Games
-
-Instalação:
 Sacar e instalar o seguinte programa: https://git-scm.com/download/win
 
+O vosso save file do jogo encontra-se aqui: C:\Users\(VOSSO USER)\Saved Games
 
 ############################################################################################
 
@@ -28,6 +18,18 @@ F5 - Usar o item registado na mochila (bicicleta, cana de pesca, detector de ite
 
 ############################################################################################
 
+			          Correção de Erros
+
+Corrigir o erro de fonts do inicio:
+	-Abre a pasta Pokemon World
+	-Abre a pasta Font
+	-Seleciona todas as fonts dentro da pasta
+	-Carrega shift+botão do lado direito do rato em uma das fonts
+	-Escolhe a opção "Install for all users"
+
+
+############################################################################################
+
 					Dicas:
 
 -Falem com todas as pessoas que encontrarem, existem easter eggs e 
@@ -38,6 +40,8 @@ frequência para não perderes nada.
 
 -Grava sempre que achares necessário, evita carregar com o rato no jogo 
 e fora. Tive alguns crashes e o progresso não grava automaticamente.
+
+-Existe 1% de chance de encontrarem um shiny.
 
 -Para tornar o jogo mais dinâmico, e de forma a acelarar o processo de apanhar todos os
 Pokemon's, todos aqueles que só evoluem apartir de nível 40 podem também ser evoluidos 
