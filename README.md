@@ -32,6 +32,10 @@ Se quiserem outro save file, podem adicionar ao vosso *.bak* no fim e assim cons
 	3. Seleciona todas as fonts dentro da pasta
 	4. Carrega shift+botão do lado direito do rato em uma das fonts
 	5. Escolhe a opção "Install for all users"
+	
+##### Pós-Créditos
+	Não fechar a janela do jogo, e deixar o sistema processar os dados. 
+	Entrar no vosso save e gravarem o jogo assim que possível.
 
 ## Dicas:
 
