@@ -21,6 +21,7 @@ Se quiserem outro save file, podem adicionar ao vosso *.bak* no fim e assim cons
 * X  - B/Start Menu
 * Z  - Correr
 * F5 - Usar o item registado na mochila (bicicleta, cana de pesca, detector de items, etc...)
+* F8 - Print Screen (os prints ficam no mesmo directório do save)
 
 
 
