@@ -3,11 +3,9 @@
 ## Instalação
 
 1. Criar conta em GitHub: https://github.com/
-2. Após conta criada, enviar o username da mesma para o Owner (Je)
-3. Sacar e instalar o seguinte programa: https://git-scm.com/download/win (sempre next)
-4. Assim que der acesso ao Repositório, entra aqui: https://github.com/NotDancingJesus/PokemonWorld
-5. Seguir as seguintes imagens: https://imgur.com/gallery/jUnzPm3
-6. Assim que tiver acabado de fazer o clone, é só executar o PokemonWorld.exe e Voilá! :)
+2. Sacar e instalar o seguinte programa: https://git-scm.com/download/win (sempre next)
+3. Seguir as seguintes imagens: https://imgur.com/gallery/jUnzPm3
+4. Assim que tiver acabado de fazer o clone, é só executar o PokemonWorld.exe e Voilá! :)
 
 O vosso save file do jogo encontra-se aqui: C:\Users\ (VOSSO USER) \Saved Games  
 Se quiserem outro save file, podem adicionar ao vosso *.bak* no fim e assim conseguem ter vários saves
