@@ -196,30 +196,6 @@
 97,West,0,212,East,34
 # Route 12 lavender filler (213) - LAVENDER TOWN (97)
 213,East,0,97,West,25
-# Cerulean filler (138) - ROUTE 25 (137)
-138,North,0,137,South,0
-# ROUTE 24 (136) - ROUTE 25 (137)
-136,East,0,137,West,1
-# CERULEAN CITY (112) - ROUTE 4 (148)
-112,West,0,148,East,4
-# ROUTE 24 (136) - ROUTE 4 (148)
-136,West,39,148,East,0
-# ROUTE 5 (142) - ROUTE 4 (148)
-142,West,0,148,East,44
-# CERULEAN CITY (112) - Cerulean filler (138)
-112,North,36,138,South,0
-# ROUTE 24 (136) - Cerulean filler (138)
-136,East,23,138,West,0
-# CERULEAN CITY (112) - ROUTE 9 (194)
-112,East,5,194,West,0
-# ROUTE 10 (202) - ROUTE 9 (194)
-202,West,0,194,East,0
-# ROUTE 5 (142) - ROUTE 9 (194)
-142,East,0,194,West,35
-# ROUTE 24 (136) - CERULEAN CITY (112)
-136,South,0,112,North,0
-# ROUTE 5 (142) - CERULEAN CITY (112)
-142,North,0,112,South,0
 # Route 6 (44) - Route 1 (5)
 44,South,43,5,North,0
 # Safari Zone (66) - Route 1 (5)
@@ -294,11 +270,11 @@
 79,East,80,127,West,0
 # ROUTE 21 (124) - Blue sea left (127)
 124,East,60,127,West,0
-# PALLET TOWN (79) - NEW PALLET TOWN (255)
+# PALLET TOWN (79) - NOVA PALLET TOWN (255)
 79,East,0,255,West,0
-# ROUTE 21 (124) - NEW PALLET TOWN (255)
+# ROUTE 21 (124) - NOVA PALLET TOWN (255)
 124,North,36,255,South,0
-# ROUTE 1 (103) - NEW PALLET TOWN (255)
+# ROUTE 1 (103) - NOVA PALLET TOWN (255)
 103,South,36,255,North,0
 # ROUTE 1 (103) - ROUTE 22 (200)
 103,North,0,200,South,59
@@ -306,3 +282,31 @@
 124,North,0,79,South,0
 # ROUTE 1 (103) - PALLET TOWN (79)
 103,South,0,79,North,0
+# CERULEAN CITY (112) - ROUTE 4 (148)
+112,West,0,148,East,4
+# ROUTE 24 (136) - ROUTE 4 (148)
+136,West,39,148,East,0
+# ROUTE 5 (142) - ROUTE 4 (148)
+142,West,0,148,East,44
+# Cerulean filler (138) - ROUTE 25 (137)
+138,North,0,137,South,0
+# Route25Extra (504) - ROUTE 25 (137)
+504,West,0,137,East,0
+# ROUTE 24 (136) - ROUTE 25 (137)
+136,East,0,137,West,1
+# Route25Extra (505) - ROUTE 25 (137)
+505,North,0,137,South,49
+# CERULEAN CITY (112) - Cerulean filler (138)
+112,North,36,138,South,0
+# ROUTE 24 (136) - Cerulean filler (138)
+136,East,23,138,West,0
+# CERULEAN CITY (112) - ROUTE 9 (194)
+112,East,5,194,West,0
+# ROUTE 10 (202) - ROUTE 9 (194)
+202,West,0,194,East,0
+# ROUTE 5 (142) - ROUTE 9 (194)
+142,East,0,194,West,35
+# ROUTE 24 (136) - CERULEAN CITY (112)
+136,South,0,112,North,0
+# ROUTE 5 (142) - CERULEAN CITY (112)
+142,North,0,112,South,0

@@ -77,3 +77,7 @@
 75,ELITEFOUR_3,ELITE FOUR,100,hoenn_battle_e4.mp3,hoenn_beat_e4.mp3,,Mixed,,
 76,ELITEFOUR_4,Elite Four,30,,,,Male,,
 77,CZ,cz,30,,,,Male,,
+78,CLAUDIO,Treinador,30,ClaudioBattle.ogg,frlg_trainervictory.ogg,,Male,55,
+79,BEN,Treinador,100,RubenBattle.ogg,RubenVictory.ogg,,Male,150,
+80,TEAMROCKET_BOTH,TEAM ROCKET,32,,,frlg_trainerbadintro.ogg,Mixed,,
+81,TEAMROCKET_TRIO,TEAM ROCKET,30,TeamRocketBattle.ogg,,frlg_trainerbadintro.ogg,Mixed,,
