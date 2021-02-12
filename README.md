@@ -42,7 +42,7 @@ Se quiserem outro save file, podem adicionar ao vosso *.bak* no fim e assim cons
 - O **Novo Pallet Town** é o sitio dos acontecimentos. Visita com frequência para não perderes nada.
 - Grava sempre que achares necessário, evita carregar com o rato no jogo e fora. Tive alguns crashes e o progresso não grava automaticamente.
 - Existe **1%** de chance de encontrarem um **shiny**.
-- Para tornar o jogo mais dinâmico, e de forma a acelarar o processo de apanhar todos os Pokemon's, todos aqueles que só evoluem apartir de nível 40 podem também ser evoluidos com uma pedra especial. (nível 40 incluído)
+- Para tornar o jogo mais dinâmico, e de forma a acelarar o processo de apanhar todos os Pokemon's, todos aqueles que só evoluem apartir de nível 40 podem também ser evoluidos com uma pedra especial, DNA Stone. (nível 40 incluído)
 
 ## Feedback
 
