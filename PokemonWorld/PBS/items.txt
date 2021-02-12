@@ -545,3 +545,4 @@
 545,TM103,TM103,TM103s,4,1500,"The user steals the effects of any healing or stat-changing move the foe attempts to use.",3,0,0,SNATCH
 546,TM104,TM104,TM104s,4,1500,"The target is hit with wings of steel. It may also raise the user's Defense stat.",3,0,0,STEELWING
 547,DNASTONE,DNA Stone,DNA Stones,1,0,A rare stone scientifically engineered to evolve Pokemon's.,1,0,0,
+548,CARTAGIL,Carta Misteriosa,Carta Misteriosa,8,0,Uma carta encontrada na casa de Bill. O que poderá significar?,0,0,6,

@@ -338,6 +338,7 @@ Outdoor=false
 Bicycle=true
 MapPosition=0,5,13
 Outdoor=true
+HealingSpot=82,7,5
 ShowArea=true
 [080]
 # Pokémon Lab
@@ -459,6 +460,7 @@ ShowArea=true
 Bicycle=true
 MapPosition=6,5,13
 Outdoor=true
+HealingSpot=110,7,4
 ShowArea=true
 [105]
 # CINNABAR ISLAND
@@ -486,6 +488,7 @@ Outdoor=false
 Bicycle=true
 MapPosition=0,5,6
 Outdoor=true
+HealingSpot=367,7,4
 ShowArea=true
 [109]
 # Pewter Gym
@@ -504,6 +507,7 @@ Outdoor=false
 Bicycle=true
 MapPosition=0,15,5
 Outdoor=true
+HealingSpot=116,7,4
 ShowArea=true
 [113]
 # Saffron City Poke Center
@@ -613,10 +617,12 @@ ShowArea=true
 # Route 15 folder
 [136]
 # ROUTE 24
+MapSize=1,1
 Bicycle=true
 TrainerVictoryME=frlg_trainervictory.ogg
 WildVictoryME=frlg_wildvictory.ogg
 TrainerBattleBGM=frlg_trainerbattle.ogg
+MapPosition=0,15,4
 Outdoor=true
 WildBattleBGM=frlg_wildpoke.ogg
 ShowArea=true
@@ -626,6 +632,7 @@ Bicycle=true
 TrainerVictoryME=frlg_trainervictory.ogg
 WildVictoryME=frlg_wildvictory.ogg
 TrainerBattleBGM=frlg_trainerbattle.ogg
+MapPosition=0,16,3
 Outdoor=true
 WildBattleBGM=frlg_wildpoke.ogg
 ShowArea=true
@@ -769,6 +776,7 @@ ShowArea=true
 Bicycle=true
 MapPosition=0,9,5
 Outdoor=true
+HealingSpot=119,7,4
 ShowArea=true
 [202]
 # ROUTE 10
@@ -1244,6 +1252,9 @@ Outdoor=false
 # Fuchsia City Warden House
 MapPosition=0,13,14
 Outdoor=false
+[373]
+# Bill's House
+MapPosition=0,17,3
 [374]
 # Pokémon League
 MapPosition=0,3,5
@@ -1349,7 +1360,6 @@ WildVictoryME=frlg_wildvictory.ogg
 TrainerBattleBGM=frlg_trainerbattle.ogg
 MapPosition=0,10,5
 WildBattleBGM=frlg_wildpoke.ogg
-HealingSpot=401,32,14
 ShowArea=true
 [402]
 # Pewter Museum 1F
