@@ -545,4 +545,9 @@
 545,TM103,TM103,TM103s,4,1500,"The user steals the effects of any healing or stat-changing move the foe attempts to use.",3,0,0,SNATCH
 546,TM104,TM104,TM104s,4,1500,"The target is hit with wings of steel. It may also raise the user's Defense stat.",3,0,0,STEELWING
 547,DNASTONE,DNA Stone,DNA Stones,1,0,A rare stone scientifically engineered to evolve Pokemon's.,1,0,0,
-548,CARTAGIL,Carta Misteriosa,Carta Misteriosa,8,0,Uma carta encontrada na casa de Bill. O que poderá significar?,0,0,6,
+548,CARTAGIL,Carta Misteriosa,Carta Misteriosa,8,0,Uma carta encontrada na casa de Bill.     O que poderá significar?                  "otreblig arap aterces megasnem",0,0,6,
+549,CARTAGIL2,Carta Misteriosa,Carta Misteriosa,8,0,Lê-se na carta "ROT13 Hz pnavab qr fragvqb nchenqb n yvqrene qriren rapbagene cvfgnf ab cebzbagbevb.",0,0,6,
+550,WORKKIT,Kit Construção,Kit Construção,8,0,"Um Kit de Construção por estrear. Encontrado perto da casa de Bill",2,0,6,
+551,BILHETE1,Bilhete Enterrado,Bilhete Enterrado,8,0,"ROT13 Rapbagen-zr an pbyvan qr green ab gbcb qn Ebhgr 24",0,0,6,
+552,BILHETE2,Bilhete Enterrado,Bilhete Enterrado,8,0,"ROT14 Qzoazfdm-yq zme qdhme pm Dagfq 4",0,0,6,
+553,BILHETE3,Bilhete Enterrado,Bilhete Enterrado,8,0,"ROT15 Pynzyecl-xp lecld oz Rjx op Npcfwply Ntej",0,0,6,
