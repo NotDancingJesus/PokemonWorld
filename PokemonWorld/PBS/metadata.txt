@@ -1539,3 +1539,7 @@ Outdoor=false
 # Copycat House 2F
 MapPosition=0,15,8
 Outdoor=false
+[506]
+# Vermilion Arena
+MapPosition=0,15,11
+ShowArea=true
