@@ -54,3 +54,6 @@ O feedback é vital se encontrares algo do gênero:
 - Constantes mudanças dos nomes de cidades e items (um personagem falar RARE CANDY e o outro Rare Candy);
 - Bugs comuns (se ficares preso em alguma situação anormal, bugar em alguma animação de personagens, etc..)
 		      
+## PrintScreens
+
+![Nova Pallet Town](PokemonWorld\Graphics\PrintScreens\NewPalletTown.bmp)

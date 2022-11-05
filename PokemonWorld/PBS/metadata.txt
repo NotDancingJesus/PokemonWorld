@@ -1540,6 +1540,6 @@ Outdoor=false
 MapPosition=0,15,8
 Outdoor=false
 [506]
-# Vermilion Arena
+# VERMILION ARENA
 MapPosition=0,15,11
 ShowArea=true
