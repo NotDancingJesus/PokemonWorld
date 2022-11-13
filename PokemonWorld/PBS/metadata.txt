@@ -1,7 +1,8 @@
-﻿[000]
+﻿#Player#=nome de playertypes.txt,overworld sprite,sprite bike,surf,run,dive,fish,fishsurf,
+[000]
 PlayerA=POKEMONTRAINER_Red,trchar000,boy_bike,boy_surf_offset,boy_run,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
 PlayerB=POKEMONTRAINER_Leaf,trchar001,girl_bike,girl_surf_offset,girl_run,girl_dive_offset,girl_fish_offset,girl_fishsurf_offset
-PlayerC=POKEMONTRAINER_Brendan,trchar002,boy_bike,boy_surf_offset,boy_run,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerC=POKEMONTRAINER_Red,067,,,,,
 TrainerVictoryME=frlg_trainervictory.ogg
 WildVictoryME=frlg_wildvictory.ogg
 TrainerBattleBGM=frlg_trainerbattle.ogg
